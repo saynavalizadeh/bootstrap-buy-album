@@ -1,0 +1,9 @@
+/* .carousel-item img{
+    height: 400px;
+} */
+.carousel-item {
+    height: 400px;
+}
+.bg-primary{
+    background-color: rgb(21, 0, 64) !important;
+}
